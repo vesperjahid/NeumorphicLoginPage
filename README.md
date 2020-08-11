@@ -4,4 +4,4 @@
 
 ### Not Responsive 
 
-[![Demo of project] (https://github.com/vesperjahid/NeumorphicLoginPage/blob/master/Demo.png)]
+<img src="https://github.com/vesperjahid/NeumorphicLoginPage/blob/master/Demo.png" alt="Project demo"/>
